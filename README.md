@@ -1,8 +1,8 @@
 # HackathonDouroPorto2021_03
-Hackathon Douro &amp; Porto 2021 - Desafio 3
+Hackathon Douro &amp; Porto 2021, Desafio #3 - Visualização de informação da gestão de água na vinha através de interface simples e intuitiva
 
 
-[Documentos do Desafio #3 (Visualização de informação da gestão de água na vinha através de interface simples e intuitiva)](docs/index.md) da Hackathon Douro &amp; Porto 2021
+[Documentos do Desafio #3](docs/index.md) da Hackathon Douro &amp; Porto 2021
 
 
 Todos os ficheiros de documentação, imagens e vídeos estão licenciados através da [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/>)
