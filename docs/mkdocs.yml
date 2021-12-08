@@ -12,7 +12,10 @@ nav:
     - Equipa: team.md
 docs/
     index.md
-    
+    goal.md
+    propousal.md
+    results.md
+    conclusions.md
     team.md
     LICENSE
     images/
