@@ -24,10 +24,15 @@ Relativamente à opção 'Rega', podemos dividi-la em duas partes: apresentaçã
 
 ![Fluxograma Rega](https://i.imgur.com/Zfy71a2.png)
 
+Na opção 'Clima' temos o display de todos os dados metereológicos, quer os proveninetes de estações metereológicas (ou rede de sensores IoT), quer os provenientes de previsões metereológicas (utilizando API para aceder a bases de dados de acesso livre, como a [AccuWeather](https://www.accuweather.com/)), quer por previsões elaborados por modelos próprios.
+
 ![Fluxograma Clima](https://i.imgur.com/ziHtLmI.png)
 
 &nbsp;
 
+## Visual Comceptual da interface
+
+&nbsp;
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FDSG2WGqZGj0TvUzwA75JST%2FLayer1%3Fpage-id%3D0%253A1%26node-id%3D2%253A3%26viewport%3D241%252C48%252C0.5%26scaling%3Dscale-down%26starting-point-node-id%3D2%253A3" allowfullscreen></iframe>
 
