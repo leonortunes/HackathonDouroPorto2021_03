@@ -9,7 +9,7 @@ Enquadrado na missão do Instituto do Vinho do Douro e do Porto, I.P., de estimu
 
     
     
-A nossa equipa ([António Valente](http://www.avalente.utad.pt/), Salviano Soares, Aureliano Malheiro, João Santos, Filipe Pinto, Sérgio Silva e Margarida Jerónimo, em colaboração com a [Associação para o Desenvolvimento da Viticultura Duriense – ADVID](https://www.advid.pt/), ficou responsável pelo desafio #3. 
+A nossa equipa [António Valente](avalente@utad.pt), [Salviano Soares](salblues@utad.pt), [Aureliano Malheiro](amalheir@utad.pt), [João Santos](jsantos@utad.pt), [Filipe Cabral Pinto](filipe-c-pinto@alticelabs.com), [Sérgio Silva](spsantossilva@gmail.com) e [Margarida Gerónimo](guijeronimo@msn.com), em colaboração com a [Associação para o Desenvolvimento da Viticultura Duriense – ADVID](https://www.advid.pt/), ficou responsável pelo desafio #3. 
 
 ## Desafio #3 - Visualização de informação da gestão de água na vinha através de interface simples e intuitiva
 
@@ -21,36 +21,6 @@ O desafio
 Visualização de informação da gestão de água na vinha através de interface simples e intuitivo
 
 
-A proposta
-------------
-
-Considerando que o objectivo é interligar várias fontes de dados, a plataforma a desenvolver irá permitir a visualização de diversas fontes/parâmetros de dados, através de um menu, para evitar a utilização de várias aplicações. Consideraram-se parâmetros relevantes: 
-
--	Dados da parcela 
-    -	identificação e caracterização – nome, casta(s), porta-enxerto(s), …;
-    -	localização da parcela – em mapa.
--	Parâmetros fisiológicos 
-    -	carta de vegetação (NDVI);
-    -	estado hídrico das plantas (monitorização contínua) – input proveniente do Desafio 2.
--	Rega
-    -	histórico de rega - será uma mais-valia para o utilizador poder comparar os dados de dotação de rega com os do mesmo período em campanhas anteriores;
-    -	rega aplicada;
-    -	rega recomendada;
-    -	Automatização – ligação remota ao contador de rega.
--	Clima
-    -	dados meteorológicos locais diários (temperatura, precipitação, humidade relativa, irradiação, direção e velocidade do vento – proveniente de estações meteorológicas);
-    -	histórico com período selecionável – possibilidade de consultar dados climáticos de semanas / meses anteriores;
-    -	Possibilidade de comparação do período de dados seleccionado com o mesmo período em campanhas anteriores;
-    -	avisos/alertas contra eventos climáticos extremos.
-
-
-Propõe-se ainda a utilização de ícones simples de modo a identificar facilmente as informações/parâmetros às quais se pretende aceder individualmente. A apresentação dos dados poderá ser feita em diferentes camadas: uma de representação espacial de valores através, por exemplo, de mapas de cor; e uma outra de apresentação de dados numéricos (gráficos ou tabelas).
-
-
-
-
-
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FDSG2WGqZGj0TvUzwA75JST%2FLayer1%3Fpage-id%3D0%253A1%26node-id%3D2%253A3%26viewport%3D241%252C48%252C0.5%26scaling%3Dscale-down%26starting-point-node-id%3D2%253A3" allowfullscreen></iframe>
 
 
 
@@ -68,4 +38,12 @@ Propõe-se ainda a utilização de ícones simples de modo a identificar facilme
      
      
 
+&nbsp;
+
+*** 
+
+&nbsp;
+
 [![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)
