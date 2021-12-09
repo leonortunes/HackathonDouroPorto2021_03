@@ -1,0 +1,19 @@
+# Site navigation links
+- title: Home
+  url: /
+
+- title: Objectivo
+  url: /goal/
+
+- title: Proposta
+  url: /propousal/
+
+- title: Resultados
+  url: /results/
+
+- title: Conclusões
+  url: /conclusions/
+  
+- title: Equipa
+  url: /team/
+  
