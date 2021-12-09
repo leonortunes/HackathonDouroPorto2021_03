@@ -1,8 +1,3 @@
----
-layout: page
-title: Home
----
-
 Hackathon Douro & Porto 2021
 ========================
 
@@ -20,10 +15,6 @@ A nossa equipa [António Valente](avalente@utad.pt), [Salviano Soares](salblues@
 
 
 Muitas vezes, aquando do desenvolvimento de ferramentas de suporte à decisão, é colocado grande esforço em Data Mining e no desenvolvimento de modelos que permitam gerar outputs utilizáveis, no entanto, as ferramentas e modelos desenvolvidas, frequentemente, não resultam em outputs de leitura fácil que sejam imediatamente utilizáveis pelos end users, sem uma intermediação por técnicos qualificados ou especialistas. Nesse sentido, e de forma a que a plataforma desenvolvida no âmbito do Desafio 2 represente, de facto, uma mais valia para todo o sector, e que represente valor para todas as explorações, independentemente da sua dimensão, e do seu corpo técnico, torna-se premente o desenvolvimento de uma interface que permita que as ferramentas de optimização desenvolvidas gerem outputs facilmente utilizáveis, e de leitura imediata por qualquer indivíduo, independentemente de pertencer ao corpo técnico de uma exploração, ou não. 
-
-O desafio
---------------
-Visualização de informação da gestão de água na vinha através de interface simples e intuitivo
 
 
 
