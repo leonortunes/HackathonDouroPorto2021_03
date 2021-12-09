@@ -1,3 +1,7 @@
+layout: page
+title: "Resultados"
+permalink: /results/
+
 # Resultados
 
 De acordo com o desenho da plataforma proposta foi desenvolvido um fluxograma para uma aplicação que se propõe responder a todos os requisitos propostos.
