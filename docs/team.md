@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Equipa"
 permalink: /team/
+---
 
 # A Equipa
 
