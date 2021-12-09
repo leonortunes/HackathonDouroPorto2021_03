@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Conclusões"
 permalink: /conclusions/
+---
 
 # Conclusões
 
