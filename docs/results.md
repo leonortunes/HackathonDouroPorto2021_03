@@ -1,3 +1,8 @@
+---
+layout: page
+title: Resultados
+---
+
 # Resultados
 
 [Imgur](https://i.imgur.com/0iHwKNd.png)
