@@ -1,3 +1,7 @@
+layout: page
+title: "Objectivo"
+permalink: /goal/
+
 # Objetivo
 
 Este desafio tinha como objetivo criar uma sistmea (criamos uma App) para visualização de informação da gestão de água na vinha através de um interface simples e intuitivo.
