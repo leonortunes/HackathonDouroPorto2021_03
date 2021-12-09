@@ -1,6 +1,8 @@
+---
 layout: page
-title: "Proposta"
+title: Proposta
 permalink: /propousal/
+---
 
 # A Proposta
 
