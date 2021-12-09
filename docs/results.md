@@ -28,6 +28,11 @@ Na opção 'Clima' temos o display de todos os dados metereológicos, quer os pr
 
 ![Fluxograma Clima](https://i.imgur.com/ziHtLmI.png)
 
+Poderão existir alertas que serão mostrados nesta página. No entanto, todos os alertas irão gerar notificações.
+
+![Alertas](https://i.imgur.com/3d5TSLC.png)
+
+
 &nbsp;
 
 ## Visual Comceptual da interface
