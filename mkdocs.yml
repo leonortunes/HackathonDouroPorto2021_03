@@ -9,3 +9,7 @@ nav:
     - Resultados: 'results.md'
     - Conclusões: 'conclusions.md'
     - Equipa: 'team.md'
+
+theme:
+  palette:
+    scheme: slate
