@@ -1,3 +1,8 @@
+---
+layout: page
+title: Home
+---
+
 Hackathon Douro & Porto 2021
 ========================
 
