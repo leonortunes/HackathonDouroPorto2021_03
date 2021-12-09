@@ -1,3 +1,7 @@
+layout: page
+title: "Conclusões"
+permalink: /conclusions/
+
 # Conclusões
 
 Foi desenvolvido o desenho de uma plataforma simples, intuitiva e de fácil utilização. A plataforma foi pensada para ser uma aplicação para dispositivo mável (smartphone). No entanto, o conceito poderá ser aplicado noutras plataformas com ligeiras alterações (por exemplo, para uma página web o menu principal passaria a ser um menu vertical à esquerda).
