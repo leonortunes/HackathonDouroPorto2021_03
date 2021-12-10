@@ -16,7 +16,7 @@ Para as quatro opçoes apresentadas foram desenvolvidos icons para facilitar a n
 
 | Parcelas | Parâmetros Fisiológicos | Rega | Clima |
 | --- | --- | --- | --- |
-|![Imgur](https://i.imgur.com/9iwJw8O.png) | ![Imgur](https://i.imgur.com/BY573dO.png) | ![Imgur](https://i.imgur.com/VNQdXyr.png) | ![Imgur](https://i.imgur.com/1zOy7sJ.png) |
+|![ParIcon](https://i.imgur.com/IQ77J0X.png) | ![ParFisioIcon](https://i.imgur.com/juFDEdR.png) | ![RegaIcon](https://i.imgur.com/ciiqsqO.png) | ![ClimaIcon](https://i.imgur.com/bgtwUUu.png) |
 
 Na opção 'Parcela' o utilizador seleciona o nome da parcela (de entre as parcelas existentes da base de dados) e é disponibilizada toda a informação sobre essa parcela e é mostrado o mapa dessa parcela (utilizando, por exemplo, o [Mango](https://mangomap.com/)). O admnistrador poderá editar esta informação.
 
