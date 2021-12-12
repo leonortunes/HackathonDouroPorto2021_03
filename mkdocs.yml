@@ -10,3 +10,5 @@ nav:
     - Conclusões: 'conclusions.md'
     - Equipa: 'team.md'
 
+markdown_extensions:
+    - footnotes
