@@ -9,7 +9,7 @@ Enquadrado na missão do Instituto do Vinho do Douro e do Porto, I.P., de estimu
 
     
     
-A nossa equipa [António Valente](avalente@utad.pt), [Salviano Soares](salblues@utad.pt), [Aureliano Malheiro](amalheir@utad.pt), [João Santos](jsantos@utad.pt), [Filipe Cabral Pinto](filipe-c-pinto@alticelabs.com), [Sérgio Silva](spsantossilva@gmail.com) e [Margarida Gerónimo](guijeronimo@msn.com), em colaboração com a [Associação para o Desenvolvimento da Viticultura Duriense – ADVID](https://www.advid.pt/), ficou responsável pelo desafio #3. 
+A nossa equipa [António Valente](avalente@utad.pt), [Salviano Soares](salblues@utad.pt), [Aureliano Malheiro](amalheir@utad.pt), [João Santos](jsantos@utad.pt), [Filipe Cabral Pinto](filipe-c-pinto@alticelabs.com), [Sérgio Silva](spsantossilva@gmail.com) e [Margarida Jerónimo](guijeronimo@msn.com), em colaboração com a [Associação para o Desenvolvimento da Viticultura Duriense – ADVID](https://www.advid.pt/), ficou responsável pelo desafio #3. 
 
 ## Desafio #3 - Visualização de informação da gestão de água na vinha através de interface simples e intuitiva
 
