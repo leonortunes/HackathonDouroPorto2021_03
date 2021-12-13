@@ -7,7 +7,7 @@ permalink: /propousal/
 # A Proposta
 
 
-Considerando que o objectivo é interligar várias fontes de dados, a plataforma a desenvolver irá permitir a visualização de diversas fontes/parâmetros de dados, através de um menu, para evitar a utilização de várias aplicações. Consideraram-se parâmetros relevantes: 
+Considerando que o objetivo é interligar várias fontes de dados, a plataforma a desenvolver irá permitir a visualização de diversas fontes/parâmetros de dados, através de um menu, para evitar a utilização de várias aplicações. Consideraram-se parâmetros relevantes: 
 
 -	Dados da parcela 
     -	identificação e caracterização – nome, casta(s), porta-enxerto(s), …;
